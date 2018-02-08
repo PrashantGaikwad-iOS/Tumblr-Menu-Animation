@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Day - 9 Tumblr Menu/ViewController.swift"
+            timestampString = "539800376.411284"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "53"
+            endingLineNumber = "53"
+            landmarkName = "showHideMenuOptionsAction(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Day___9_Tumblr_Menu.ViewController.showHideMenuOptionsAction(Any) -&gt; ()"
+                  moduleName = "Day - 9 Tumblr Menu"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/prashantgaikwad/Desktop/Daily%20Tasks/Day%20-%209%20Tumblr%20Menu/Day%20-%209%20Tumblr%20Menu/ViewController.swift"
+                  timestampString = "539799681.585448"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "56"
+                  endingLineNumber = "56"
+                  offsetFromSymbolStart = "1040">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 () -&gt; () in Day___9_Tumblr_Menu.ViewController.showHideMenuOptionsAction(Any) -&gt; ()"
+                  moduleName = "Day - 9 Tumblr Menu"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/prashantgaikwad/Desktop/Daily%20Tasks/Day%20-%209%20Tumblr%20Menu/Day%20-%209%20Tumblr%20Menu/ViewController.swift"
+                  timestampString = "539799681.5944279"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "59"
+                  endingLineNumber = "59"
+                  offsetFromSymbolStart = "24">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Day - 9 Tumblr Menu/ViewController.swift"
+            timestampString = "539800376.4114209"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "showHideMenuOptionsAction(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
